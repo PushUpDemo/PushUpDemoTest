@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
         int i = 1 +1 ;
         int j = 2+2 ;
+        int k = 33 // tinhlam commit 1
     }
 }
