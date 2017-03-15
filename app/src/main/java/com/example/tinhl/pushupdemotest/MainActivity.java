@@ -17,5 +17,9 @@ public class MainActivity extends AppCompatActivity {
 
         int i = 1 +1 ;
         int j = 2+2 ;
+        int g = 3+3;
+        int h = 4+4;
+
+        String s = "string";
     }
 }
