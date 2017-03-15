@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
         int h = 4+4;
 
         String s = "string string";
+        String something = "something";
     }
 }
