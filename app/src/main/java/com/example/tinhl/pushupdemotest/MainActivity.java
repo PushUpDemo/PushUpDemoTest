@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
         int g = 3+3;
         int h = 4+4;
 
-        String s = "string";
+        String s = "string string";
     }
 }
